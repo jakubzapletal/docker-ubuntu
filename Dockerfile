@@ -11,6 +11,9 @@ RUN \
 # Add files.
 ADD scripts/.bashrc /root/.bashrc
 
+# Define volume
+VOLUME /data
+
 # Set environment variables.
 ENV HOME /root
 

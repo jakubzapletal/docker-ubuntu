@@ -1,4 +1,4 @@
-FROM ubuntu:14.04.1
+FROM ubuntu:14.04.3
 
 MAINTAINER Jakub Zapletal <zapletal.jakub@gmail.com>
 
